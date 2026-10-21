@@ -1,0 +1,15 @@
+# Nigerian Pidgin sentiment project
+# Tested on Google Colab (T4 GPU). Exact versions were not recorded;
+# see the note in the README about running `pip freeze` in Colab.
+
+# datasets must be below 4.0: the NaijaSenti-Twitter dataset uses a loading script
+datasets<4
+transformers
+accelerate
+evaluate
+scikit-learn
+torch
+pandas
+numpy
+matplotlib
+seaborn
