@@ -1,6 +1,6 @@
 # Sentiment Analysis for Nigerian Pidgin: A Classical Baseline vs a Fine-Tuned Transformer
 
-**Humphrey Udoh** | udohsamhumphrey@gmail.com | Website: https://humphreyudoh449.github.io | Code: [repo link]
+**Humphrey Udoh** | udohsamhumphrey@gmail.com | Website: https://humphreyudoh449.github.io | Code: https://github.com/humphreyudoh449/naija-pidgin-sentiment
 
 ## 1. Motivation
 Nigerian Pidgin is widely spoken but under-resourced in NLP. Sentiment analysis for it matters for tasks such as understanding customer feedback and social media opinion. Most NLP tools are built for English, and Pidgin text is informal, code-mixed with English, and full of spelling variation. This project tests how far standard methods go on such text. It is a first technical step towards my planned doctoral research on how people without technical training can use language technology to analyse their own customer messages, and how we can verify that it works for them.
